@@ -2,7 +2,7 @@
 - 👀 I’m interested in development of unknown freaking object.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on my project for creating UFO.
-- 📫 How to reach me by my address 
+- 📫 How to reach me by my mail address 
 
 <!---
 masafumiinoue/masafumiinoue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
