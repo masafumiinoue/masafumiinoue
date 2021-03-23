@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @masafumiinoue
-- 👀 I’m interested in development of unknown freaking object.
+- 👀 I’m interested in development of newly tools for bioinformatics.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on my project for creating UFO.
+- 💞️ I’m looking to collaborate on my project for creating program.
 - 📫 How to reach me by my mail address 
 
 <!---
